@@ -5,8 +5,6 @@ My name is Elena Osipyan! I am a 3rd year student @ University of Toronto Scarbo
 
 🌱 Trying to learn more statistics and always looking for resources :) 
 
-👯 Open to collaborating on healthtech/biomedical engineering projects!
-
 💬 Ask me about: studying physics/physical sciences @ UTSC
 
 📫 lenosipyan@gmail.com
