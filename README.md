@@ -5,4 +5,3 @@ My name is Elena Osipyan! I am a 3rd year student @ University of Toronto Scarbo
 
 📫 lenosipyan@gmail.com
 
-⚡ Fun fact: I am a coffee fiend.
